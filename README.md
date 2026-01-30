@@ -1,16 +1,8 @@
 ## Hi  I'm Cameron Devenport
 
 # About Me:
-I’m a manufacturing technician with 15 years in the oil & gas industry and a recent Computer Science graduate. I’m currently honing my skills as I transition into tech, working on projects that blend software development, automation, and information security. This profile is a living lab for my curiosity while learning in public and exploring what’s possible.
+I’m a recent Computer Science graduate. I’m currently honing my skills as I transition into tech, working on projects that blend software development, automation, and information security. This profile is a living lab for my curiosity while learning in public and exploring what’s possible.
 
-
-
-# I'm currently Learning:
-  Software Engineering - POSTEGRESQL, REACT, Dockers, Node.JS, Bootstrap
-  
-  Cybersecurity - Nmap, Wireshark, Metasploit, Ghidra
-
-  PLC - Ladder logic, Electrical Principles, Siemens TIA portal, 
 
 # Tech Stack:
 Languages: 
