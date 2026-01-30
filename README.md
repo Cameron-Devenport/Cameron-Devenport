@@ -1,17 +1,18 @@
-## Hi 👋 I'm Cameron Devenport
+## Hi  I'm Cameron Devenport
 
-# 💫 About Me:
-I'm a recent Computer Science graduate with a deep fascination and enthusiasm for exploring how systems work, building practical solutions, and continuously learning new technologiess.
+# About Me:
+I’m a manufacturing technician with 15 years in the oil & gas industry and a recent Computer Science graduate. I’m currently honing my skills as I transition into tech, working on projects that blend software development, automation, and information security. This profile is a living lab for my curiosity while learning in public and exploring what’s possible.
 
-# 🔭 I’m currently working on:
-An app that centralizes and automates the logistics for multiple kids in various sports/activities to serve as a "sports parent dashboard," importing schedules and managing all related tasks in one place.
 
-# 🌱 I'm currently Learning:
+
+# I'm currently Learning:
   Software Engineering - POSTEGRESQL, REACT, Dockers, Node.JS, Bootstrap
   
   Cybersecurity - Nmap, Wireshark, Metasploit, Ghidra
 
-# 💻 Tech Stack:
+  PLC - Ladder logic, Electrical Principles, Siemens TIA portal, 
+
+# Tech Stack:
 Languages: 
 <div>
 <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/> 
